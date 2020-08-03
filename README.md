@@ -3,7 +3,7 @@ Recognising emotions like happy, sad, anger, scared and few others using facial 
 
 -Use fer-real-time for Emotion recognition using facial recognition. It provides output with accuracy above 90%.
 
--Use fer-model-trainer to tain your own model, but I have already provided 2 pre-trained models with different epochs for training them. 
+-Use fer-model-trainer to tain your own model, but I have already provided 2 pre-trained models with different epochs used for training them. 
 
 -Final.py has the added functionality of recognising emotions using voice with NLP, but it is not reliable for now. 
 
